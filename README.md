@@ -21,8 +21,7 @@
 <h3>Admin Dashboard</h3>
 <img src="https://user-images.githubusercontent.com/89337309/194772511-35c5ff90-0a37-4bbc-80e7-df842aab29f7.PNG">
 
-<h3>Admin Profile</h3>
-<img src="https://user-images.githubusercontent.com/89337309/194775131-d8507f0e-4d46-4adb-b9b2-1cb7aaf0588c.PNG">
+
 
 <h3>Customer Details</h3>
 <img src="https://user-images.githubusercontent.com/89337309/194772576-17754dfe-05c2-416f-980b-9ec385c833cb.PNG">
@@ -39,8 +38,7 @@
 <h3>User Dashboard</h3>
 <img src="https://user-images.githubusercontent.com/89337309/194774692-c72e6dae-50f9-4830-bc64-4520449ac73f.PNG">
 
-<h3>User Profile</h3>
-<img src="https://user-images.githubusercontent.com/89337309/194775169-e64ea5ea-91fa-4ded-a1e6-92afefbaa18a.PNG">
+
 
 <h3>Precription History</h3>
 <img src="https://user-images.githubusercontent.com/89337309/194774822-74d7ce45-9a62-4f5f-b52a-08afb72932a0.PNG">
@@ -57,7 +55,7 @@
 
 <h3>Thank You</h3>
 
-<h6 align="center">Credits to Asky AM</h6>
+<h6 align="center">Credits to  shazan</h6>
 
 
 
